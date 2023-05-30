@@ -18,7 +18,7 @@ This repository contains learning material for beginners to get started with HTM
 |      | Understanding relative and absolute file paths          | 4 |
 |      | Creating ordered and unordered lists                    | 5 |
 | 3    | Inserting and formatting tables                         | 1 |
-|      | Adding rows and columns to tables                       | 2 |
+|      | Understanding the rows and columns in HTML tables       | 2 |
 |      | Merging cells in a table                                | 3 |
 |      | Creating forms with input fields                        | 4 |
 |      | Using checkboxes, radio buttons, and drop-down menus    | 5 |
@@ -49,7 +49,7 @@ This repository is licensed under the [MIT License](LICENSE). Feel free to use, 
 
 ## Acknowledgments
 
-- This syllabus is based on the HTML learning material created by OpenAI.
+- This syllabus is based on the HTML learning material created by OpenAI and improved by [darkterminal - Software Freestyle Engineer](https://github.com/darkterminal).
 - We appreciate the contributions of the open-source community in providing resources and tutorials for learning HTML.
 
 If you have any questions or suggestions, please feel free to open an issue or submit a pull request. Happy learning!
