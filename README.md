@@ -22,20 +22,20 @@ This repository contains learning material for beginners to get started with HTM
 |      | [Merging cells in a table](./assets/materials/week-03/day03-merging-cells-in-a-table.md)                                      | 3   |
 |      | [Creating forms with input fields](./assets/materials/week-03/day04-create-forms-with-input-fields.md)                        | 4   |
 |      | [Using checkboxes, radio buttons, and drop-down menus](./assets/materials/week-03/day05-using-checkboxes-radio-buttons-and-drop-down-menus.md) | 5   |
-| 4    | Adding comments to HTML code                            | 1 |
-|      | Inserting special characters with entities              | 2 |
-|      | Organizing content with div and span tags               | 3 |
-|      | Understanding HTML5 semantic elements                   | 4 |
-|      | Introduction to Cascading Style Sheets (CSS)            | 5 |
-| 5    | Applying inline CSS styles                              | 1 |
-|      | Creating internal and external CSS files                | 2 |
-|      | Selecting HTML elements with CSS selectors              | 3 |
-|      | Applying colors and backgrounds with CSS                | 4 |
-| 6    | Formatting text with CSS                                | 1 |
-|      | Adding borders and shadows to elements with CSS         | 2 |
-|      | Creating responsive layouts with CSS                    | 3 |
-|      | Introduction to CSS frameworks                          | 4 |
-|      | Final project: Building a simple webpage                | 5 |
+| 4    | [Adding comments to HTML code](./assets/materials/week-04/day01-adding-comments-to-html-code.md)                            | 1 |
+|      | [Inserting special characters with entities](./assets/materials/week-04/day02-inserting-special-characters-with-entities.md)              | 2 |
+|      | [Organizing content with div and span tags](./assets/materials/week-04/day03-organizing-content-with-div-and-span-tags.md)               | 3 |
+|      | [Understanding HTML5 semantic elements](./assets/materials/week-04/day04-understanding-html-5-semantic-elements.md)                   | 4 |
+|      | [Introduction to Cascading Style Sheets (CSS)](./assets/materials/week-04/day05-introduction-to-cascading-style-sheets-css.md)            | 5 |
+| 5    | [Applying inline CSS styles](./assets/materials/week-05/day01-applying-inline-css-styles.md)                              | 1 |
+|      | [Creating internal and external CSS files](./assets/materials/week-05/day02-creating-internal-and-external-css-files.md)                | 2 |
+|      | [Selecting HTML elements with CSS selectors](./assets/materials/week-05/day03-selecting-html-elements-with-css-selectors.md)              | 3 |
+|      | [Applying colors and backgrounds with CSS](./assets/materials/week-05/day04-applying-colors-and-backgrounds-with-css.md)                | 4 |
+| 6    | [Formatting text with CSS](./assets/materials/week-06/day01-formatting-text-with-css.md)                                | 1 |
+|      | [Adding borders and shadows to elements with CSS](./assets/materials/week-06/day02-adding-borders-and-shadows-to-elements-with-css.md)         | 2 |
+|      | [Creating responsive layouts with CSS](./assets/materials/week-06/day03-creating-responsive-layouts-with-css.md)                    | 3 |
+|      | [Introduction to CSS frameworks](./assets/materials/week-06/day04-introduction-to-css-frameworks.md)                          | 4 |
+|      | [Final project: Building a simple webpage](./assets/materials/week-06/day05-final-project-building-a-simple-webpage.md)                | 5 |
 
 ## Usage
 
