@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Discord community
+    url: https://dcs.gg/character-driven-coding
+    about: Have any questions or doubts? Join our Discord community!
+  - name: Community Knowledge Base
+    url: https://character-driven-coding.gitbook.io/character-driven-coding/
+    about: Character-driven Coding Official Knowledge Base
